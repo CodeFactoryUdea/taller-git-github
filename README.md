@@ -22,7 +22,7 @@ Para master se define lo siguiente:
 
 ## Feature
 
-- la nomenclatura es: feture/tu-funcionalidad
+- la nomenclatura es: feature/tu-funcionalidad
 - nacen desde develop
 - se pide PR de feature hacia develop.
 
