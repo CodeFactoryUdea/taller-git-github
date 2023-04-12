@@ -20,7 +20,7 @@ Para master se define lo siguiente:
 - No se hace push develop
 - Se mezcla en develop con PRs (Pull Request) hacia master.
 
-## Featue
+## Feature
 
 - la nomenclatura es: feture/tu-funcionalidad
 - nacen desde develop
